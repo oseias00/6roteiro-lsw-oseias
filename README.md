@@ -1,0 +1,1 @@
+este mini projeto do 6º roteiro de lsw é uma aplicação web que permite listar, adicionar, editar e excluir locais turísticos da Paraíba. utiliza HTML, CSS e JavaScript no frontend, e um backend simulado com json-server.
