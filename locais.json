@@ -1,0 +1,22 @@
+{
+  "locais": [
+    {
+      "titulo": "Praia de Coqueirinho",
+      "descricao": "Uma linda praia localizada em João Pessoa - PB, um ótimo ponto turístico pra se visitar!",
+      "foto": "https://imgmd.net/images/v1/guia/2663354/praia-de-coqueirinho.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Cabo Branco",
+      "descricao": "Ponto mais oriental das Américas.",
+      "foto": "https://i0.wp.com/www.jbnaestrada.com.br/wp-content/uploads/2022/01/Brasil-Paraiba-Joao-Pessoa-Farol-do-Cabo-Branco.jpg?resize=752%2C440&ssl=1"
+    },
+    {
+      "id": "5b3a",
+      "titulo": "IFPB CAMPUS CAJAZEIRAS",
+      "descricao": "UM LINDO CAMPUS DO IF LOCALIZADO NA CIDADE DE CAJAZEIRAS",
+      "foto": "https://www.ifpb.edu.br/cajazeiras/site.jpg"
+    }
+  ]
+}

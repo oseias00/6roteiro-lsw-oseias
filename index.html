@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia Turístico da Paraíba</title>
+    <script defer src="script.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Guia Turístico da Paraíba</h1>
+    <form id="localForm">
+        <input type="hidden" id="localId">
+        <input type="text" id="titulo" placeholder="Título" required>
+        <textarea id="descricao" placeholder="Descrição" required></textarea>
+        <input type="url" id="foto" placeholder="URL da Imagem" required>
+        <button type="submit">Salvar</button>
+    </form>
+    <div id="locais"></div>
+</body>
+</html>
